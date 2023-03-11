@@ -20,3 +20,6 @@ Exercícios de Python, elaborados pela [Wiki da Python Brasil](https://wiki.pyth
 - Postar resolução dos exercícios;
 - Criar resolução comentada;
 - Auxiliar colegas que estão a procura de exercícios.
+
+## Orientações
+- Se você quer acessar apenas o enunciado dos exercícios, acesse a página [Exercícios](https://github.com/JoaoLuizDev/exercicios-python/tree/main/exercicios).
