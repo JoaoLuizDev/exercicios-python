@@ -1,4 +1,4 @@
-# Eercicios Python
+# Exercícios Python
 
 ## Descrição
 Exercícios de Python, elaborados pela [Wiki da Python Brasil](https://wiki.python.org.br/ListaDeExercicios).
