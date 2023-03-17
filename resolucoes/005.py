@@ -12,8 +12,8 @@ Em {metro:.2f}, temos:
 - .2f   --------- uma especificação de formatação que indica que o número deve ser formatado com duas casas decimais 
                   e que deve ser exibido como um número de ponto flutuante.
                   Veja o exemplo a seguir.
-"""
 
 medida =  3.14159
-print(f"{medida}")
-print(f"{medida:.2f}")
+print(f"{medida}")        saída será: 3.14159
+print(f"{medida:.2f}")    saída será: 3.14
+"""
