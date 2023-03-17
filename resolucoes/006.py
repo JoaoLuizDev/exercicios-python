@@ -1,3 +1,7 @@
+"""
+Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
+"""
+
 print("Vamos calcular a área do círculo.")
 raio = float(input("Para isso, digite o raio do círculo: "))
 π = 3,14
