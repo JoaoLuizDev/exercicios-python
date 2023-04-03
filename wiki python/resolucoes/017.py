@@ -12,15 +12,14 @@ isto é, considere latas cheias.
 import math
 
 # Define a cobertura da tinta em metros quadrados por litro
-cobertura_tinta = 6
+cobertura_tinta = 6         #metros por litro
 
 # Define o tamanho da lata de tinta em litros, o preço e o tamanho do galão de tinta e o preço
-tamanho_lata = 18
-preco_lata = 80.0
-tamanho_galao = 3.6
-preco_galao = 25.0
+tamanho_lata = 18           #litros
+preco_lata = 80.0           #reais
+tamanho_galao = 3.6         #litros
+preco_galao = 25.0          #litros
 
-# Pede ao usuário o tamanho em metros quadrados da área a ser pintada
 tamanho_area = float(input("Digite o tamanho em metros quadrados da área a ser pintada: "))
 
 # Calcula a quantidade de tinta necessária em litros com 10% de folga, arredondando para cima
