@@ -22,4 +22,4 @@ Exercícios de Python, elaborados pela [Wiki da Python Brasil](https://wiki.pyth
 - Auxiliar colegas que estão a procura de exercícios.
 
 ## Orientações
-- Se você quer acessar apenas o enunciado dos exercícios, acesse a página [Exercícios][(https://github.com/JoaoLuizDev/exercicios-python/tree/main/wiki%20python/exercicios)].
+- Se você quer acessar apenas o enunciado dos exercícios, acesse a página [Exercícios][https://github.com/JoaoLuizDev/exercicios-python/tree/main/wiki%20python/exercicios].
