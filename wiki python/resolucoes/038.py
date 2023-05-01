@@ -34,6 +34,6 @@ if 10 <= saque <= 600:
           f"{nota_5:.0f} cédula(s) de R$ 05,00\n"
           f"{nota_1:.0f} cédula(s) de R$ 01,00")
 elif 10 > saque > 1000:
-    print("O valor é maior que o limite diário de saque.")
+    print("OPERAÇÃO NÃO REALIZADA - O valor é maior que o limite diário de saque.")
 else:
     print("Valor não permitido.")
